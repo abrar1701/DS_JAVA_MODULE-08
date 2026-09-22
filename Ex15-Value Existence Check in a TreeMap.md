@@ -11,7 +11,7 @@ To write a Java program that checks whether a given value exists in a TreeMap.
 5.Display the result based on the check. 
 
 ## Program:
-```PY
+```java
 /*
 Program to checks whether a given value exists in a TreeMap.
 Developed by: Mohamed Abrar M
